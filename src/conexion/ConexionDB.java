@@ -29,5 +29,7 @@ public class ConexionDB {
             System.out.print("Error en la conexion: " + e.getMessage());
         }
         return conn;
+        
+        //Holaaa la comida china es REAL
     }
 }
